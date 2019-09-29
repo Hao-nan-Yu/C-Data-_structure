@@ -1,2 +1,2 @@
-# C-Data-_structure
+# C++-Data-_structure
 Data structure and algorithm
